@@ -1,0 +1,1 @@
+import"./config.Bflc6ceG.js";import"./zh_TW.sZlbrWm5.js";function c(e,o){const n=e.replace(/^\/|\/$/g,"").toLowerCase(),r=o.replace(/^\/|\/$/g,"").toLowerCase();return n===r}function t(...e){return e.join("/").replace(/\/+/g,"/")}function u(e){return t("","/myweb/",e)}export{c as p,u};
